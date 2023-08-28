@@ -1,2 +1,0 @@
-
-AddressFinderView().run()
